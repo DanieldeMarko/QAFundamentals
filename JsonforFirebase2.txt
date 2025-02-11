@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise-cancelling feature.",
+      "price": 89.99,
+      "category": "Electronics",
+      "stock": 150
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "description": "Smart watch with health tracking and notification support.",
+      "price": 129.99,
+      "category": "Wearable Technology",
+      "stock": 75
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with 12-hour battery life.",
+      "price": 49.99,
+      "category": "Audio",
+      "stock": 200
+    },
+    {
+      "id": 4,
+      "name": "4K Monitor",
+      "description": "27-inch 4K UHD monitor with adjustable stand.",
+      "price": 299.99,
+      "category": "Computers",
+      "stock": 50
+    },
+{
+ "id": 5,
+      "name": "8K Monitor",
+      "description": "32-inch 4K UHD monitor with adjustable stand.",
+      "price": 799.99,
+      "category": "Computers",
+      "stock": 5
+  }
+}
+}

@@ -1,0 +1,8 @@
+ "product4": {
+            "category": "Аксесоари",
+            "description": "Apple IWatch",
+            "id": 4,
+            "imageUrl": "https://example.com/images/watch.jpg",
+            "name": "Часовник",
+            "price": 650.0,
+            "stock": 25

@@ -1,0 +1,71 @@
+1. let x
+x = 10
+
+let y
+y = 5
+
+console.log(x)
+console.log(x+y)
+
+2.
+
+let z = 3
+console.log((x+y) * z)
+
+
+3.
+function greet(name) {console.log("Hello, " + name + "i");}
+greet("John")
+
+4.
+let age = 25;
+if (age >=18) {console.log("You are an adult.")}
+
+else {console.log("You are not an adult yet.")}
+
+age = 18
+if (age >=18) {console.log("You are an adult.")}
+else {console.log("You are not an adult yet.")}
+
+age = 17
+if (age >=18) {console.log("You are an adult.")}
+else {console.log("You are not an adult yet.")}
+
+5.
+
+function calculateTriangleAreaByHeightandSide(height, side) { 
+    const area = (height * side) / 2;
+    return area;
+    }
+        const trianglerHeight = 6;
+    const triangleSide = 4;
+    const area = 
+    calculateTriangleAreaByHeightandSide(trianglerHeight, triangleSide);
+    console.log("The area of the triangle is: " + area);
+  
+
+
+function calculateTriangleArea(SideA, SideB, SideC) { 
+    const semiPerimeter = (SideA + SideB + SideC) / 2;
+    const area = Math.sqrt(
+    semiPerimeter *
+    (semiPerimeter - SideA) *
+    (semiPerimeter - SideB) *
+    (semiPerimeter - SideC) 
+    );
+
+    return area;
+    }
+    
+    
+    const side1 = 3;
+    const side2 = 4;
+    const side3 = 5;
+    
+    const area = calculateTriangleArea(side1, side2, side3);
+    console.log("The area of the triangle is: " + area);
+   6
+
+
+
+
